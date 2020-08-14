@@ -7,3 +7,5 @@
 
 Freelance dev living in London (UK).  
 Mainly Java, some Ruby and a little Kotlin.
+
+Background image (wavy lines) created by [starline](https://www.freepik.com/vectors/background)
